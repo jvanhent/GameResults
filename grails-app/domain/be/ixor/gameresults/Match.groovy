@@ -4,6 +4,7 @@ class Match {
 
   List<Party> parties = new ArrayList()
   Tournament tournament
+  MatchType matchType
   Result result
   String comment
 
